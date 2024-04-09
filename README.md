@@ -1,17 +1,16 @@
 # ohmOP
->Information repository for boards.4chan.org/diy/ohm
+>Information repository for boards.4chan.org/diy/ohm <br>
+[Ohm OP paste](paste.txt)
 
-Electronics is an art and science of applying principles to requirements.
-Find problem, learn the principles, design and verify a solution, build, test, post results, repeat.
+**Troubleshooting advice:** <br>
 
-Troubleshooting advice:
+**Project ideas:** <br>
+[Project List by categories](ProjectCategories.md)
 
-Project ideas:
+**Software tools:** <br>
 
-Software tools:
+**Component sourcing:** <br>
 
-Component sourcing:
+**Books:** <br>
 
-Books:
-
-YouTube Channels:
+**YouTube Channels:** <br>
