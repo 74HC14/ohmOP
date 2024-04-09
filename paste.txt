@@ -3,26 +3,19 @@ Thread xxxx: >>xxxxxxx
 >I'm new to electronics. Where to get started?
 It is an art/science of applying principles to requirements.
 Find problem, learn principles, design and verify solution, build, test, post results, repeat.
+Read the datasheet.
 
->Incredibly comprehensive list of electronics resources:
+>OP source:
+https://github.com/74HC14/ohmOP
+
+>Comprehensive list of electronics resources:
 https://github.com/kitspace/awesome-electronics
-Additional resources below:
 
 >Project ideas:
-https://adafruit.com
-https://instructables.com/tag/type-id/category-technology/
-https://makezine.com/category/electronics/
 https://hackaday.io
-
->Don't ask, roll:
-https://github.com/Rocheez/4chan-electronics-challenges/blob/master/list-of-challenges.png
-
->Archive of Popular Electronics magazines (1954-2003):
-https://worldradiohistory.com/Popular-Electronics-Guide.htm
->Microchip Tips and Tricks PDF:
-https://ww1.microchip.com/downloads/en/devicedoc/01146b.pdf
->Li+/LiPo batteries required reading:
-https://buster-spb.ru/files/SAFT/li-ion_user_manua.pdf
+https://instructables.com/tag/type-id/category-technology/
+https://adafruit.com
+https://makezine.com/category/electronics/
 
 >Books:
 https://libgen.rs/
@@ -34,24 +27,22 @@ Kybett & Boysen, All New Electronics Self-Teaching Guide
 Scherz & Monk, Practical Electronics for Inventors (arguably has minor issues with mains grounding)
 Horowitz and Hill, The Art of Electronics
 
->Recommended Design/verification tools:
+>Recommended software tools:
 KiCAD 6+
 Circuitmaker
 Logisim Evolution
 
 >Recommended Components/equipment:
 Octopart
+LCSC
 eBay/AliExpress sellers, for component assortments/sample kits (caveat emptor)
 Local independent electronics distributors
 ladyada.net/library/procure/hobbyist.html
 
->More related YouTube channels:
-mjlorton
-jkgamm041
-EcProjects
-Photonvids
-sdgelectronics
-paceworldwide
+>Most relevant YouTube channels:
+EEVblog
+W2AEW
+Moritz Klein
 
 >microcontroller specific problems?
 >>>/diy/mcg
