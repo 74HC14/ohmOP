@@ -18,7 +18,7 @@ Read the datasheet.
 
 ***
 ### Free Software Tools:
-[Wikipedia list of free simulators](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators) <br>
+[Wikipedia list comparing simulators](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators) <br>
 [Wikipedia list comparing EDA tools](https://en.wikipedia.org/wiki/Comparison_of_EDA_software) <br>
 [Wikipedia list comparing CAD tools](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
 
