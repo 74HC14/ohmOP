@@ -1,5 +1,5 @@
 # ohmOP
->Information repository for boards.4chan.org/diy/ohm <br>
+Information repository for boards.4chan.org/diy/ohm <br>
 [Ohm OP paste](paste.txt)
 
 **Troubleshooting advice:** <br>
