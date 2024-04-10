@@ -27,5 +27,5 @@ These are fields that augment projects, here are some features they can add for 
 | Micropower | supercap <br> watchdog timer | charge pump <br> energy harvesting | energy beaming <br> betavoltaics |
 | Optoelectronics | IR remote control <br> IR analog modulation | TOSLINK <br> sun tracking | gimbal laser comms <br> image sensor| 
 
-For more on radio see: https://boards.4chan.org/diy/ham
-For more on embedded see: https://boards.4chan.org/diy/mcg
+For more on radio see: [/ham/](https://boards.4chan.org/diy/ham) <br>
+For more on embedded see: [/mcg/](https://boards.4chan.org/diy/mcg)
