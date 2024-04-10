@@ -8,7 +8,8 @@ Read the datasheet.
 
 ***
 ### Project Ideas:
-[Project List by categories](ProjectCategories.md) <br>
+[Project List by Categories](ProjectCategories.md) <br>
+[Unconventional Components](Oddities.md) <br>
 [Don't ask, roll](https://github.com/Rocheez/4chan-electronics-challenges/blob/master/list-of-challenges.png)
 
 [Hackaday](https://hackaday.io) <br>
