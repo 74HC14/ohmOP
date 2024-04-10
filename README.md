@@ -4,7 +4,10 @@ This repo is an information repository for the 4chan /diy/ board's [/ohm/](board
 
 ***
 ### Troubleshooting Advice:
-Read the datasheet.
++ Read the service manual or schematic if it exists
++ Read the datasheets of relevant components if you can find them
++ If audio is making a buzzing noise, look up "ground loop isolator"
++ (add internal link to detailed troubleshooting file here)
 
 ***
 ### Project Ideas:
@@ -66,3 +69,7 @@ Horowitz and Hill, The Art of Electronics <br>
 
 ***
 ### YouTube Channels:
+[Full list](youtubers.md) <br>
++ EEVblog
++ W2AEW
++ Moritz Klein
