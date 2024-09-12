@@ -24,7 +24,7 @@ https://libgen.rs/
 Mims III, Getting Started in Electronics
 Geier, How to Diagnose & Fix Everything Electronic
 Kybett & Boysen, All New Electronics Self-Teaching Guide
-Scherz & Monk, Practical Electronics for Inventors (arguably has minor issues with mains grounding)
+Scherz & Monk, Practical Electronics for Inventors
 Horowitz and Hill, The Art of Electronics
 
 >Recommended software tools:
