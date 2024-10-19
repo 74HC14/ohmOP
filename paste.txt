@@ -7,6 +7,7 @@ Read the datasheet.
 
 >OP source:
 https://github.com/74HC14/ohmOP
+bake at page 10, post in old thread
 
 >Comprehensive list of electronics resources:
 https://github.com/kitspace/awesome-electronics
@@ -54,5 +55,3 @@ Shitcan it
 More rules-driven than engineering, try /qtddtot/ or sparky general first
 >antigravity and/or overunity?
 Go away
-
-bake at page 10, post in old thread
